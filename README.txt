@@ -36,7 +36,8 @@ Requirements:
 
 Support:
 --------
-Visit [your website or GitHub link here] for updates, support, and Pro version upgrades.
+Visit [https://github.com/Drentttttt/FixBadImage-Repair-Tool] for updates, support, and Pro version upgrades.
 
-Created by Adrein — persistent, detail-oriented, and methodical.
+Created by Dre — persistent, detail-oriented, and methodical.
+
 
