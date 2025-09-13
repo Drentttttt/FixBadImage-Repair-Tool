@@ -1,7 +1,7 @@
 FixBadImage Repair Tool
 =======================
 
-Author: Adrein
+Author: Dre
 Version: 1.0
 Release Date: September 13, 2025
 Platform: Windows 10/11
@@ -39,3 +39,4 @@ Support:
 Visit [your website or GitHub link here] for updates, support, and Pro version upgrades.
 
 Created by Adrein — persistent, detail-oriented, and methodical.
+
