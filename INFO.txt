@@ -1,0 +1,44 @@
+FixBadImage Repair Tool — Installation Guide
+============================================
+
+Author: Dre  
+Version: 1.0  
+Platform: Windows 10/11  
+Installer: FixBadImageSetup.exe
+
+-------------------------------
+🔧 BEFORE INSTALLATION
+-------------------------------
+
+- Close any open repair tools or command-line windows.
+- Ensure you have administrator privileges.
+- Internet connection is recommended (for runtime downloads).
+- This installer will place files in:
+  C:\Program Files\FixBadImageTool\
+
+Files included:
+- FixBadImage.exe (launcher)
+- FixBadImage.ps1 (repair script)
+- README.txt
+- LICENSE.txt
+- icon.ico (shortcut branding)
+
+-------------------------------
+🚀 AFTER INSTALLATION
+-------------------------------
+
+- A desktop shortcut will be created: "FixBadImage Tool"
+- You can launch the tool by double-clicking FixBadImage.exe
+- The tool will:
+  - Run system repair scans (SFC, DISM)
+  - Install missing Visual C++ Redistributables
+  - Log all output to: %TEMP%\FixBadImageLog_YYYY-MM-DD_HH-MM-SS.txt
+  - Prompt for optional restart
+
+To uninstall:
+- Go to Control Panel → Programs → Uninstall a program
+- Or use the shortcut: "Uninstall FixBadImage Tool"
+
+For updates, support, or Pro features, visit: [your website or GitHub]
+
+Thank you for using FixBadImage Repair Tool — built for reliability, simplicity, and results.
