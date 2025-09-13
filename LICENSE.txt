@@ -1,0 +1,16 @@
+FixBadImage Repair Tool — License Agreement
+===========================================
+
+Copyright © 2025 DreEnt.
+
+This software is provided "as is", without warranty of any kind, express or implied. By using this tool, you agree to the following terms:
+
+1. You may use and distribute this tool freely for personal or professional use.
+2. You may not sell, sublicense, or modify this tool for commercial gain without written permission from the author.
+3. The author is not responsible for any damage, data loss, or system instability resulting from use of this tool.
+4. You may not remove or alter attribution to the original author.
+5. Use of this tool implies acceptance of these terms.
+
+For commercial licensing, technician bundles, or custom builds, contact the author at [adreinmorin@gmail.com].
+
+Created by Dre — built with transparency, reliability, and user empowerment in mind.
